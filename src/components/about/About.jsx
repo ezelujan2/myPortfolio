@@ -17,7 +17,7 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            Mys focus is on expanding and putting into practice my skills in web
+            My focus is on expanding and putting into practice my skills in web
             development. I have just completed my studies in Full Stack Web
             Development at Soy Henry, and my passion for the world of
             development continues to grow. I am very interested in finding job
