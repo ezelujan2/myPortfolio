@@ -1,5 +1,4 @@
 import "./about.css";
-import CV from "../../assets/CV_Ezequiel_Lujan_EN.pdf";
 import Info from "./Info";
 
 const About = () => {
@@ -26,8 +25,8 @@ const About = () => {
           </p>
 
           <a
-            href="src/assets/CV_Ezequiel_Lujan_EN.pdf"
-            download={CV}
+            href="https://res.cloudinary.com/dztkjtnfv/image/upload/fl_attachment/v1695504695/CV_Ezequiel_Lujan_EN.pdf"
+            download="CV_Ezequiel_Lujan_EN.pdf"
             className="button button--flex">
             Download CV
             <svg
