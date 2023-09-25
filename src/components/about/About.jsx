@@ -18,7 +18,7 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            My focus is on expanding and putting into practice my skills in web
+            Mys focus is on expanding and putting into practice my skills in web
             development. I have just completed my studies in Full Stack Web
             Development at Soy Henry, and my passion for the world of
             development continues to grow. I am very interested in finding job
@@ -27,7 +27,7 @@ const About = () => {
 
           <a
             href="src/assets/CV_Ezequiel_Lujan_EN.pdf"
-            download="CV_Ezequiel_Lujan_EN.pdf"
+            download={CV}
             className="button button--flex">
             Download CV
             <svg
